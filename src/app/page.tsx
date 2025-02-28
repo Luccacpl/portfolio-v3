@@ -7,7 +7,8 @@ export default function Home() {
       <main className={styles.main}>
         <Image
           className={styles.logo}
-          src="/logo-xl.png"
+          // src="/logo-xl.png"
+          src="/logo/lucca_logo.png"
           alt="Next.js logo"
           width={180}
           height={130}
